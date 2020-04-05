@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Ming received his PhD in Econometrics and Statistics at University of Chicago, Booth School of Business in March 2020. His research interests include high dimensional statistical inference, non-convex optimization, and reinforcement learning, with a focus on developing novel methodologies with both practical applications and theoretical guarantees.
 
 # List each interest with a dash
 interests:
@@ -54,6 +54,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ming93/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/feed/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
