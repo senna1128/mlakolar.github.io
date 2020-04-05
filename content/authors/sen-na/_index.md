@@ -10,29 +10,27 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: University of Chicago Department of Statistics
+  url: "https://stat.uchicago.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Sen Na is a Ph.D student in Statistics department at UChicago. Prior to graduate school, he obtained B.S. in mathematics at Nanjing University, China. His research interests lie in nonlinear and nonconvex optimization, dynamic programming, high-dimensional statistics and their interface.
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Nonlinear Optimization
+- Dynamic Programming
+- High-Dimensional Statistics
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: B.S. Mathematics
+    institution: Nanjing University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:senna@uchicago.edu'.
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/USERNAME
@@ -50,7 +48,10 @@ social:
   link: https://scholar.google.com/citations?user=PERSON-ID
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/senna1128
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sen-na-38a8a9132/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,6 +64,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Group 1
-- Group 2
+- Researchers
 ---
