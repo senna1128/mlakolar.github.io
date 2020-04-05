@@ -66,4 +66,6 @@ user_groups:
 ---
 
 Sam Wang is currently a post-doc at the University of Chicago Booth School of Business advised by Mladen Kolar. His theoretical and methodological research interests are focused on causal discovery, graphical models, and high-dimensional statistical methods; his applied research interests lie in the social sciences. He completed his PhD in 2018 at the University of Washington advised by Mathias Drton and received his undergraduate degree from Rice University. Prior to embarking on his PhD studies, he worked in management consulting.
+
+
 [Personal Website](http://ysamuelwang.com/)

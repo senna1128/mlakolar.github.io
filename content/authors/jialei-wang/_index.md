@@ -24,7 +24,8 @@ bio: Jialei received his PhD in Computer Science at University of Chicago in Jun
 interests:
 - Statistical Machine Learning
 - Optimization
-- Distributed estimation and optimization
+- Distributed estimation
+- Distributed optimization
 - Randomized and online methods for optimization
 - Statistics for high-dimensional data
 
@@ -35,7 +36,7 @@ education:
     year: 2019
   - course: B.E. Special Class for the Gifted Young
     institution: University of Science and Technology of China
-    year: 2012
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
