@@ -4,7 +4,7 @@ name: Mladen Kolar
 
 # Username (this should match the folder name)
 authors:
-- admin
+- Mladen Kolar
 
 # Is this the primary user of the site?
 superuser: true
@@ -64,8 +64,7 @@ email: "Mladen.Kolar@ChicagoBooth.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigator
 ---
 
 Mladen Kolar is Associate Professor of Econometrics and Statistics at the University of Chicago Booth School of Business. His research is focused on high-dimensional statistical methods, graphical models, varying-coefficient models and data mining, driven by the need to uncover interesting and scientifically meaningful structures from observational data.
