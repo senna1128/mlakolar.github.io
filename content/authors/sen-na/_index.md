@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
 - name: University of Chicago Department of Statistics
-  url: "https://stat.uchicago.edu/"
+  url: https://stat.uchicago.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Sen Na is a Ph.D student in Statistics department at UChicago. Prior to graduate school, he obtained B.S. in mathematics at Nanjing University, China. His research interests lie in nonlinear and nonconvex optimization, dynamic programming, high-dimensional statistics and their interface.
@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:senna@uchicago.edu'.
+  link: 'mailto:senna@uchicago.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/USERNAME
