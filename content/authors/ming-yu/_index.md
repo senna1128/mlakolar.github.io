@@ -13,7 +13,7 @@ superuser: false
 role: PhD
 
 # Organizations/Affiliations
-organizations: 
+organizations:
 - name: University of Chicago Booth School of Business
   url: ""
 
@@ -71,3 +71,12 @@ email: ""
 user_groups:
 - PhD Students
 ---
+
+
+Ming received his PhD in Econometrics and Statistics at University of Chicago,
+Booth School of Business in March 2020. His research interests include high
+dimensional statistical inference, non-convex optimization, and reinforcement
+learning, with a focus on developing novel methodologies with both practical
+applications and theoretical guarantees.
+
+[Personal Website](http://home.uchicago.edu/~ming93/)
