@@ -27,12 +27,12 @@ interests:
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: M.S. in Machine Learning
+    institution: Carnegie Mellon University
+    year: 2019
+  - course: B.S. in Statistics and Machine Learning
+    institution: Carnegie Mellon University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,15 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:blyu@chicagobooth.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/ShawnBLYU
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/boxiang-lyu-3206159b/
@@ -69,6 +63,6 @@ user_groups:
 - PhD Students
 ---
 
-Write some background
+Boxiang is a PhD student in the Econometrics and Statistics dissertation area at University of Chicago Booth School of Business. Prior to coming to Booth, he obtained a Master of Science in Machine Learning (2019) and a Bachelor of Science in Statistics and Machine Learning (2018) from Carnegie Mellon University. 
 
 [Personal website](https://voices.uchicago.edu/blyu/)
