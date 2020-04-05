@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: PhD
 
 # Organizations/Affiliations
-organizations:
-- name:
+organizations: 
+- name: University of Chicago Booth School of Business
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,17 +22,23 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Machine Learning
+- High dimensional statistical inference
+- Nonconvex optimization
+- Reinforcement learning
+- Network models and information diffusion
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: PhD in Econometrics and Statistics
+    institution: University of Chicago Booth School of Business
+    year: 2020
+  - course: Master in Statistics
+    institution: University of Chicago
+    year: 2016
+  - course: Bachelor of Science in Mathematics
+    institution: Peking University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,16 +47,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
+  link: mailto:ming93@uchicago.edu
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: https://scholar.google.com/citations?hl=en&user=16pUi4MAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/ming93/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
