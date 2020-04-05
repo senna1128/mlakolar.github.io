@@ -10,29 +10,31 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: Research Professional
 
 # Organizations/Affiliations
 organizations:
-- name:
+- name: University of Chicago Booth School of Business
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 # List each interest with a dash
-interests:
-- Interest 1
-- Interest 2
+Interests:
+- Machine Learning 
+- Causal Inference
+- High-Dimensional Statstics
+- Optimization
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: MS Computer Science
+    institution: Columbia University
+    year: 2017
+  - course: BEng Aeronautics and Astronautics
+    institution: University of Southampton
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,16 +43,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: 'mailto:sikai.lee@chicagobooth.edu'
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/USERNAME
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?user=PERSON-ID
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/atechnicolorskye
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sikailee
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

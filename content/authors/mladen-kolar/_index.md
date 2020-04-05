@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mladen Kolar is Associate Professor of Econometrics and Statistics at the University of Chicago Booth School of Business. His research is focused on high-dimensional statistical methods, graphical models, varying-coefficient models and data mining, driven by the need to uncover interesting and scientifically meaningful structures from observational data.
+bio: Mladen Kolar is an Associate Professor of Econometrics and Statistics at the University of Chicago Booth School of Business. His research is focused on high-dimensional statistical methods, graphical models, varying-coefficient models and data mining, driven by the need to uncover interesting and scientifically meaningful structures from observational data.
 
 interests:
 - Machine Learning
@@ -67,4 +67,4 @@ user_groups:
 - Principal Investigator
 ---
 
-Mladen Kolar is Associate Professor of Econometrics and Statistics at the University of Chicago Booth School of Business. His research is focused on high-dimensional statistical methods, graphical models, varying-coefficient models and data mining, driven by the need to uncover interesting and scientifically meaningful structures from observational data.
+Mladen Kolar is an Associate Professor of Econometrics and Statistics at the University of Chicago Booth School of Business. His research is focused on high-dimensional statistical methods, graphical models, varying-coefficient models and data mining, driven by the need to uncover interesting and scientifically meaningful structures from observational data.
