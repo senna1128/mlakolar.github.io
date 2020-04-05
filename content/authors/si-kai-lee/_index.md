@@ -22,9 +22,10 @@ bio:
 
 # List each interest with a dash
 Interests:
+- Machine Learning 
 - Causal Inference
-- High Dimensional Statstics
-- Machine Learning and Optimization
+- High-Dimensional Statstics
+- Optimization
 
 education:
   courses:
