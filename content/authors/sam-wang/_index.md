@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Sam Wang"
+name: "Y. Samuel Wang"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -10,29 +10,31 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: Post-doc
 
 # Organizations/Affiliations
 organizations:
-- name:
+- name: University of Chicago Booth School of Business
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Sam Wang is currently a post-doc at the University of Chicago Booth School of Business advised by Mladen Kolar. His theoretical and methodological research interests are focused on causal discovery, graphical models, and high-dimensional statistical methods; his applied research interests lie in the social sciences. He completed his PhD in 2018 at the University of Washington advised by Mathias Drton and received his undergraduate degree from Rice University. Prior to embarking on his PhD studies, he worked in management consulting.
 
-# List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Causal Discovery
+- Probabilistic Graphical Models
+- High-Dimensional Statistics
+- Machine Learning
+
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: PhD in Statistics
+    institution: University of Washington
+    year: 2018
+  - course: BA in Applied Math; Economics
+    institution: Rice Uiversity
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,27 +43,27 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:swang24@uchicago.edu
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/USERNAME
+  link: https://twitter.com/ysamuelwang
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: https://scholar.google.com/citations?hl=en&user=ih_LeQYAAAAJ&view_op=list_works&sortby=pubdate
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/ysamwang
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: swang24@uchicago.edu
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 ---
+
+Sam Wang is currently a post-doc at the University of Chicago Booth School of Business advised by Mladen Kolar. His theoretical and methodological research interests are focused on causal discovery, graphical models, and high-dimensional statistical methods; his applied research interests lie in the social sciences. He completed his PhD in 2018 at the University of Washington advised by Mathias Drton and received his undergraduate degree from Rice University. Prior to embarking on his PhD studies, he worked in management consulting.
+[Personal Website](http://ysamuelwang.com/)
