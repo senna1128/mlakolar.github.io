@@ -1,6 +1,5 @@
 [build]
-  # command = "hugo --gc --minify -b $URL"
-  command = "hugo --gc --minify -b http://mkolar.coffeejunkies.org/"
+  command = "hugo --gc --minify -b $URL"
   publish = "public"
 
 [build.environment]
