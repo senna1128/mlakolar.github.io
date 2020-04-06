@@ -10,29 +10,35 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name:
+- name: University of Chicago Booth School of Business
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Boxin Zhao is a PhD student in Econometrics and Statistics at University of Chicago, Booth School of Business. His research interests include probabilistic graphical models, functional data analysis and distributed learning, with a focus on developing novel methodologies with both practical applications and theoretical guarantees.
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Machine learning
+- Probabilistic graphical models
+- Functional data analysis
+- Distributed learning
+- High-dimensional statistics
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: PhD in Econometrics and Statistics
+    institution: University of Chicago Booth School of Business
+    year: 2025
+  - course: Master in Statistics
+    institution: University of Chicago
+    year: 2020
+  - course: Bachelor of Science in Statistics
+    institution: Nankai University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,16 +47,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: mailto:boxinz@uchicago.edu
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/boxinz17
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,5 +63,15 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- PhD Students
 ---
+
+
+Boxin Zhao is a PhD student in Econometrics and Statistics at University of Chicago, 
+Booth School of Business. His research interests include probabilistic graphical models, 
+functional data analysis and distributed learning, with a focus on developing novel 
+methodologies with both practical applications and theoretical guarantees.
+
+
+
+
