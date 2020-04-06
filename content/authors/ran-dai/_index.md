@@ -10,20 +10,26 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role:Ph.D. Candidate in Statistics
 
 # Organizations/Affiliations
 organizations:
-- name:
+- name:University of Chicago, Department of Statistics
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio:Ran Dai is a fourth-year Ph.D. candidate in Statistics at the University of Chicago advised by Rina
+Foygel Barber. My research interest is in high dimensional inference, nonparametric modeling,
+and shape-constrained regressions, multiple testing, and causal inference. In particular, I am
+interested in developing computationally efficient algorithms for these problems with statistical
+convergence guarantee and valid inference; and applying these methods towards real datasets in
+the areas of drug development, HIV mutation study and cancer study.
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- High dimensional statistical inference
+- High dimensional shape constrained methods
+- Machine learning
 
 education:
   courses:
@@ -58,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "randai@uchicago.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
