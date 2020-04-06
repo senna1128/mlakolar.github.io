@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: MS Student (2019-2020)
 
 # Organizations/Affiliations
 organizations:
