@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD
+role: PhD (2014-2020)
 
 # Organizations/Affiliations
 organizations:
@@ -33,10 +33,10 @@ education:
   - course: PhD in Econometrics and Statistics
     institution: University of Chicago Booth School of Business
     year: 2020
-  - course: Master in Statistics
+  - course: M.S. in Statistics
     institution: University of Chicago
     year: 2016
-  - course: Bachelor of Science in Mathematics
+  - course: B.S. in Mathematics
     institution: Peking University
     year: 2014
 

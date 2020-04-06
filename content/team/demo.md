@@ -53,15 +53,15 @@ subtitle = ""
 
 ## Master Students
 
-[Sinong Geng](https://www.cs.princeton.edu/~sgeng/) (2017-2019) --> PhD Student Princeton University   
-Yangze Zhou (2017-2018) --> PhD Student Purdue University     
-Siwei Li (2017) --> J.P. Morgan   
-Yu Pu (2017-2018) --> Barclays
+[Sinong Geng](https://www.cs.princeton.edu/~sgeng/) (2017-2019) -- PhD Student Princeton University   
+Yangze Zhou (2017-2018) -- PhD Student Purdue University     
+Siwei Li (2017) -- J.P. Morgan   
+Yu Pu (2017-2018) -- Barclays
 
 
 ## Undergraduate Students
 
 Mihai Tesliuc (Summer 2017)   
 Boon King (Summer 2017)      
-Kevin Guo (2016-2017) --> PhD Stanford University   
-Sanghun "Ted" Lee (2014-2015) --> Software Development Engineer at AWS   
+Kevin Guo (2016-2017) -- PhD Stanford University   
+Sanghun "Ted" Lee (2014-2015) -- Software Development Engineer at AWS   

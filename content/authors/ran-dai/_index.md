@@ -10,29 +10,33 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: Ph.D. Candidate in Statistics
 
 # Organizations/Affiliations
 organizations:
-- name:
+- name: University of Chicago, Department of Statistics
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Ran Dai is a fourth-year Ph.D. candidate in Statistics at the University of Chicago advised by Rina Foygel Barber. Ran's research interest is in high dimensional inference, nonparametric modeling, and shape-constrained regressions, multiple testing, and causal inference. In particular, Ran is interested in developing computationally efficient algorithms for these problems with statistical convergence guarantee and valid inference; and applying these methods towards real datasets in the areas of drug development, HIV mutation study and cancer study.
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- High dimensional statistical inference
+- High dimensional shape constrained methods
+- Machine learning
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: M.S. in Statistics
+    institution: University of Chicago
+    year: 2016
+  - course: PhD in Medicinal and Pharmaceutical Chemistry
+    institution: University of Minnesota Twin Cities
+    year: 2015
+  - course: B.S. in Pharmaceutical Sciences
+    institution: Peking University
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,16 +45,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
+  link: 'mailto:randai@uchicago.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
+  link: https://scholar.google.com/citations?hl=en&user=9FHRJwkAAAAJ&view_op=list_works&sortby=pubdate
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://www.linkedin.com/in/randai/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,10 +59,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "randai@uchicago.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - PhD Students
 ---
+
+Ran Dai is a fourth-year Ph.D. candidate in Statistics at the University of Chicago advised by Rina Foygel Barber. Ran's research interest is in high dimensional inference, nonparametric modeling, and shape-constrained regressions, multiple testing, and causal inference. In particular, Ran is interested in developing computationally efficient algorithms for these problems with statistical convergence guarantee and valid inference; and applying these methods towards real datasets in the areas of drug development, HIV mutation study and cancer study.
