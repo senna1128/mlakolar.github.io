@@ -14,25 +14,28 @@ role: MS Student (2019-2020)
 
 # Organizations/Affiliations
 organizations:
-- name:
+- name: University of Chicago Department of Statistics
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Yuwei Luo received his M.S. degree in Statistics at University of Chicago in March 2020. Prior to graduate school, he received B.S.degree in Mathematics at University of Science and Technology of China (USTC) in June 2018. His research interests include reinforcement learning,control, optimization and network analysis.
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Machine Learning
+- Reinforcement Learning
+- Optimization
+- Control and Game Theory
+- Network Analysis
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: M.S. in Statistics
+    institution: University of Chicago
+    year: 2020
+  - course: B.S. in Mathematics
+    institution: University of Science and Technology of China
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,16 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
+  link: 'mailto:yuweiluo@uchicago.edu'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
+  link: https://scholar.google.com/citations?user=Jb8r920AAAAJ
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://www.linkedin.com/in/yuwei-luo-40b7a11a3/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
