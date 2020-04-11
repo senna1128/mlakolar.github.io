@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Ph.D. Candidate in Statistics
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,23 +18,23 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ran Dai is a fourth-year Ph.D. candidate in Statistics at the University of Chicago advised by Rina Foygel Barber. Ran's research interest is in high dimensional inference, nonparametric modeling, and shape-constrained regressions, multiple testing, and causal inference. In particular, Ran is interested in developing computationally efficient algorithms for these problems with statistical convergence guarantee and valid inference; and applying these methods towards real datasets in the areas of drug development, HIV mutation study and cancer study.
+bio: Ran Dai is a fourth-year PhD candidate in Statistics at the University of Chicago advised by Rina Foygel Barber. Ran's research interest is in high dimensional inference, nonparametric modeling, and shape-constrained regressions, multiple testing, and causal inference. In particular, Ran is interested in developing computationally efficient algorithms for these problems with statistical convergence guarantee and valid inference; and applying these methods towards real datasets in the areas of drug development, HIV mutation study and cancer study.
 
 # List each interest with a dash
 interests:
-- High dimensional statistical inference
-- High dimensional shape constrained methods
+- High-dimensional statistical inference
+- High-dimensional shape constrained methods
 - Machine learning
 
 education:
   courses:
-  - course: M.S. in Statistics
+  - course: MS in Statistics
     institution: University of Chicago
     year: 2016
   - course: PhD in Medicinal and Pharmaceutical Chemistry
     institution: University of Minnesota Twin Cities
     year: 2015
-  - course: B.S. in Pharmaceutical Sciences
+  - course: BS in Pharmaceutical Sciences
     institution: Peking University
     year: 2009
 
@@ -67,4 +67,4 @@ user_groups:
 - PhD Students
 ---
 
-Ran Dai is a fourth-year Ph.D. candidate in Statistics at the University of Chicago advised by Rina Foygel Barber. Ran's research interest is in high dimensional inference, nonparametric modeling, and shape-constrained regressions, multiple testing, and causal inference. In particular, Ran is interested in developing computationally efficient algorithms for these problems with statistical convergence guarantee and valid inference; and applying these methods towards real datasets in the areas of drug development, HIV mutation study and cancer study.
+Ran Dai is a fourth-year PhD candidate in Statistics at the University of Chicago advised by Rina Foygel Barber. Ran's research interest is in high dimensional inference, nonparametric modeling, and shape-constrained regressions, multiple testing, and causal inference. In particular, Ran is interested in developing computationally efficient algorithms for these problems with statistical convergence guarantee and valid inference; and applying these methods towards real datasets in the areas of drug development, HIV mutation study and cancer study.

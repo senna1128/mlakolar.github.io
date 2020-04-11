@@ -22,14 +22,14 @@ bio:
 
 # List each interest with a dash
 interests:
-- High Dimensional Statistics
+- High-dimensional Statistics
 - Gaussian Graphical Models
 - Functional Graphical Models
 - Machine Learning
 
 education:
   courses:
-  - course: B.S. in Physics
+  - course: BS in Physics
     institution: School for the Gifted Young, University of Science and Technology of China
     year: 2019
 

@@ -26,10 +26,10 @@ interests:
 
 education:
   courses:
-  - course: Master in Statistics
+  - course: MS in Statistics
     institution: University of Chicago
     year: 2020
-  - course: B.S. in Pure and Applied Mathematics
+  - course: BS in Pure and Applied Mathematics
     institution: Tsinghua University
     year: 2018
 

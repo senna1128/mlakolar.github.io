@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yuwei Luo received his M.S. degree in Statistics at University of Chicago in March 2020. Prior to graduate school, he received B.S.degree in Mathematics at University of Science and Technology of China (USTC) in June 2018. His research interests include reinforcement learning,control, optimization and network analysis.
+bio: Yuwei Luo received his M.S. degree in Statistics at University of Chicago in March 2020. Prior to graduate school, he received B.S.degree in Mathematics at University of Science and Technology of China (USTC) in June 2018. His research interests include reinforcement learning, control, optimization and network analysis.
 
 # List each interest with a dash
 interests:
@@ -30,10 +30,10 @@ interests:
 
 education:
   courses:
-  - course: M.S. in Statistics
+  - course: MS in Statistics
     institution: University of Chicago
     year: 2020
-  - course: B.S. in Mathematics
+  - course: BS in Mathematics
     institution: University of Science and Technology of China
     year: 2018
 
@@ -65,3 +65,5 @@ email: ""
 user_groups:
 - Master Students
 ---
+
+Yuwei Luo received his M.S. degree in Statistics at University of Chicago in March 2020. Prior to graduate school, he received B.S.degree in Mathematics at University of Science and Technology of China (USTC) in June 2018. His research interests include reinforcement learning, control, optimization and network analysis.

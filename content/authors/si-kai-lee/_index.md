@@ -22,17 +22,17 @@ bio:
 
 # List each interest with a dash
 Interests:
-- Machine Learning 
+- Machine Learning
 - Causal Inference
-- High-Dimensional Statstics
+- High-Dimensional Statistics
 - Optimization
 
 education:
   courses:
-  - course: MS Computer Science
+  - course: MS in Computer Science
     institution: Columbia University
     year: 2017
-  - course: BEng Aeronautics and Astronautics
+  - course: BEng in Aeronautics and Astronautics
     institution: University of Southampton
     year: 2014
 

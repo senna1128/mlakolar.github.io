@@ -23,7 +23,7 @@ bio: Ming received his PhD in Econometrics and Statistics at University of Chica
 # List each interest with a dash
 interests:
 - Machine Learning
-- High dimensional statistical inference
+- High-dimensional statistical inference
 - Nonconvex optimization
 - Reinforcement learning
 - Network models and information diffusion
@@ -33,10 +33,10 @@ education:
   - course: PhD in Econometrics and Statistics
     institution: University of Chicago Booth School of Business
     year: 2020
-  - course: M.S. in Statistics
+  - course: MS in Statistics
     institution: University of Chicago
     year: 2016
-  - course: B.S. in Mathematics
+  - course: BS in Mathematics
     institution: Peking University
     year: 2014
 

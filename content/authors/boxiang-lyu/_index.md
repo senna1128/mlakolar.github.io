@@ -27,10 +27,10 @@ interests:
 
 education:
   courses:
-  - course: M.S. in Machine Learning
+  - course: MS in Machine Learning
     institution: Carnegie Mellon University
     year: 2019
-  - course: B.S. in Statistics and Machine Learning
+  - course: BS in Statistics and Machine Learning
     institution: Carnegie Mellon University
     year: 2018
 
@@ -63,6 +63,6 @@ user_groups:
 - PhD Students
 ---
 
-Boxiang is a PhD student in the Econometrics and Statistics dissertation area at University of Chicago Booth School of Business. Prior to coming to Booth, he obtained a Master of Science in Machine Learning (2019) and a Bachelor of Science in Statistics and Machine Learning (2018) from Carnegie Mellon University. 
+Boxiang is a PhD student in the Econometrics and Statistics dissertation area at University of Chicago Booth School of Business. Prior to coming to Booth, he obtained a Master of Science in Machine Learning (2019) and a Bachelor of Science in Statistics and Machine Learning (2018) from Carnegie Mellon University.
 
 [Personal website](https://voices.uchicago.edu/blyu/)

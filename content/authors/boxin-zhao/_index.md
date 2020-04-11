@@ -33,10 +33,10 @@ education:
   - course: PhD in Econometrics and Statistics
     institution: University of Chicago Booth School of Business
     year: 2025
-  - course: Master in Statistics
+  - course: MS in Statistics
     institution: University of Chicago
     year: 2020
-  - course: Bachelor of Science in Statistics
+  - course: BS in Statistics
     institution: Nankai University
     year: 2018
 
@@ -67,11 +67,7 @@ user_groups:
 ---
 
 
-Boxin Zhao is a PhD student in Econometrics and Statistics at University of Chicago, 
-Booth School of Business. His research interests include probabilistic graphical models, 
-functional data analysis and distributed learning, with a focus on developing novel 
+Boxin Zhao is a PhD student in Econometrics and Statistics at University of Chicago,
+Booth School of Business. His research interests include probabilistic graphical models,
+functional data analysis and distributed learning, with a focus on developing novel
 methodologies with both practical applications and theoretical guarantees.
-
-
-
-
