@@ -10,29 +10,29 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: Ph.D. Candidate in Statistics
 
 # Organizations/Affiliations
 organizations:
-- name:
+- name: University of Chicago, Department of Statistics
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: You-Lin Chen is currently a statistics Ph.D. candidate at the University of Chicago advised by Mladen Kolar. He pursue his research interests in machine learning, stochastic and non-convex Optimization, high-dimensional statistics.
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Machine Learning
+- Stochastic and Non-convex Optimization
+- High-Dimensional Statistics
+- Unsupervised Representation learning
+- Dependent Data Analysis
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: B.S. in Electrical Engineering
+    institution: National Tsing Hua University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,16 +41,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
+  link: mailto:youlinchen@uchicago.edu
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: https://scholar.google.com/citations?user=yHi1ZGAAAAAJ&hl
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/youlinchen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,7 +55,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "youlinchen@uchicago.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
