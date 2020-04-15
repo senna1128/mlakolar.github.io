@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Prior to graduate school, he received B.S.degree in Data Science at Fudan University in June 2019. His research interests include high-dimensional statistis and optimization.
+bio: Prior to graduate school, he received B.S. degree in Computer Science at Fudan University in June 2019. His research interests include high-dimensional statistis and distributed optimization.
 
 # List each interest with a dash
 interests:
@@ -41,7 +41,7 @@ social:
   link: 'mailto:luofengl@uchicago.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/Banana2015
+  link: https://github.com/Banana1530
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/luofeng-liao-7a1027181/
