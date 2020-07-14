@@ -18,7 +18,7 @@ organizations:
   url: https://stat.uchicago.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sen Na is a PhD student in the Department of Statistics at The University of Chicago. Prior to graduate school, he obtained BS in mathematics at Nanjing University, China. His research interests lie in nonlinear and nonconvex optimization, dynamic programming, high-dimensional statistics and their interface.
+bio: Sen Na is a PhD student in the Department of Statistics at The University of Chicago. Prior to graduate school, he obtained BS in mathematics from Nanjing University, China. His research interests lie in nonlinear and nonconvex optimization, dynamic programming, high-dimensional statistics and their interface.
 
 # List each interest with a dash
 interests:
@@ -40,12 +40,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:senna@uchicago.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: https://scholar.google.com/citations?user=Y2rWjxQAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/senna1128
