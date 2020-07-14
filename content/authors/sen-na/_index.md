@@ -68,3 +68,5 @@ user_groups:
 ---
 
 Sen Na is a PhD student in the Department of Statistics at The University of Chicago. Prior to graduate school, he obtained BS in mathematics at Nanjing University, China. His research interests lie in nonlinear and nonconvex optimization, dynamic programming, high-dimensional statistics and their interface.
+
+[Personal Website](https://www.stat.uchicago.edu/~senna/home.html)
